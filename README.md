@@ -1,5 +1,5 @@
-# Scatha_Simulator
-A simulator of Scatha Farming in Java
+# Scatha Simulator
+A simulator of Scatha Farming in Python
 
 # How to make it work
 
