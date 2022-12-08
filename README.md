@@ -1,6 +1,8 @@
 # Scatha Simulator
 A simulator of Scatha Farming in Python
 
+Actually not working 100% but im still trying to fix it
+
 # How to make it work
 
 1. Download the repo
