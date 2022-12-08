@@ -133,3 +133,4 @@ def main():
         print("Number of total Scatha Pet: " + (nbPetRare+nbPetEpic+nbPetLeg))
 
 main()
+input('Type anything then press enter to close.') # prevent closing
